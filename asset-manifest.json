@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boardgameseek/static/css/main.f855e6bc.css",
+    "main.js": "/boardgameseek/static/js/main.6710e67c.js",
+    "static/js/453.aa9c2826.chunk.js": "/boardgameseek/static/js/453.aa9c2826.chunk.js",
+    "index.html": "/boardgameseek/index.html",
+    "main.f855e6bc.css.map": "/boardgameseek/static/css/main.f855e6bc.css.map",
+    "main.6710e67c.js.map": "/boardgameseek/static/js/main.6710e67c.js.map",
+    "453.aa9c2826.chunk.js.map": "/boardgameseek/static/js/453.aa9c2826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6710e67c.js"
+  ]
+}
