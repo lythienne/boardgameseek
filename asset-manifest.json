@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/boardgameseek/static/css/main.e6c13ad2.css",
-    "main.js": "/boardgameseek/static/js/main.8855f6cb.js",
+    "main.js": "/boardgameseek/static/js/main.d8ac70fd.js",
     "static/js/453.aa9c2826.chunk.js": "/boardgameseek/static/js/453.aa9c2826.chunk.js",
     "index.html": "/boardgameseek/index.html",
     "main.e6c13ad2.css.map": "/boardgameseek/static/css/main.e6c13ad2.css.map",
-    "main.8855f6cb.js.map": "/boardgameseek/static/js/main.8855f6cb.js.map",
+    "main.d8ac70fd.js.map": "/boardgameseek/static/js/main.d8ac70fd.js.map",
     "453.aa9c2826.chunk.js.map": "/boardgameseek/static/js/453.aa9c2826.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8855f6cb.js"
+    "static/js/main.d8ac70fd.js"
   ]
 }
