@@ -1,4 +1,3 @@
-
 https://boardgamegeek.com/boardgame/224517/brass-birmingham
 https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1
 https://boardgamegeek.com/boardgame/174430/gloomhaven
@@ -199,7 +198,6 @@ https://boardgamegeek.com/boardgame/365717/clank-catacombs
 https://boardgamegeek.com/boardgame/150376/dead-winter-crossroads-game
 https://boardgamegeek.com/boardgame/123260/suburbia
 https://boardgamegeek.com/boardgame/14105/commands-colors-ancients
-https://boardgamegeek.com/boardgame/242302/space-base
 https://boardgamegeek.com/boardgame/171131/captain-sonar
 https://boardgamegeek.com/boardgame/314491/meadow
 https://boardgamegeek.com/boardgame/188/go
@@ -300,7 +298,6 @@ https://boardgamegeek.com/boardgame/139976/cthulhu-wars
 https://boardgamegeek.com/boardgame/244271/dice-throne-season-two-battle-chest
 https://boardgamegeek.com/boardgame/97207/dungeon-petz
 https://boardgamegeek.com/boardgame/22545/age-empires-iii-age-discovery
-https://boardgamegeek.com/boardgame/46213/telestrations
 https://boardgamegeek.com/boardgame/160477/onitama
 https://boardgamegeek.com/boardgame/38453/space-alert
 https://boardgamegeek.com/boardgame/187617/nemos-war-second-edition
@@ -311,13 +308,10 @@ https://boardgamegeek.com/boardgame/181279/fury-dracula-thirdfourth-edition
 https://boardgamegeek.com/boardgame/143693/glass-road
 https://boardgamegeek.com/boardgame/297562/kemet-blood-and-sand
 https://boardgamegeek.com/boardgame/93260/summoner-wars-master-set
-https://boardgamegeek.com/boardgame/54138/imperial-2030
 https://boardgamegeek.com/boardgame/245655/kings-dilemma
 https://boardgamegeek.com/boardgame/270633/aeons-end-new-age
 https://boardgamegeek.com/boardgame/284653/mind-mgmt-psychic-espionage-game
 https://boardgamegeek.com/boardgame/257499/arkham-horror-third-edition
-https://boardgamegeek.com/boardgame/59294/runewars
-https://boardgamegeek.com/boardgame/48726/alien-frontiers
 https://boardgamegeek.com/boardgame/209685/century-spice-road
 https://boardgamegeek.com/boardgame/227789/heaven-ale
 https://boardgamegeek.com/boardgame/54/tikal
@@ -352,7 +346,6 @@ https://boardgamegeek.com/boardgame/222509/lords-hellas
 https://boardgamegeek.com/boardgame/45315/dungeon-lords
 https://boardgamegeek.com/boardgame/47/chinatown
 https://boardgamegeek.com/boardgame/297030/tekhenu-obelisk-sun
-https://boardgamegeek.com/boardgame/219513/barenpark
 https://boardgamegeek.com/boardgame/176920/mission-red-planet-second-edition
 https://boardgamegeek.com/boardgame/77130/sid-meiers-civilization-board-game
 https://boardgamegeek.com/boardgame/150145/skull-king
@@ -367,7 +360,6 @@ https://boardgamegeek.com/boardgame/262211/cloudspire
 https://boardgamegeek.com/boardgame/234/hannibal-rome-vs-carthage
 https://boardgamegeek.com/boardgame/163745/star-wars-armada
 https://boardgamegeek.com/boardgame/246192/gizmos
-https://boardgamegeek.com/boardgame/329839/so-clover
 https://boardgamegeek.com/boardgame/37046/ghost-stories
 https://boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small
 https://boardgamegeek.com/boardgame/301880/raiders-scythia
@@ -375,7 +367,6 @@ https://boardgamegeek.com/boardgame/128271/ginkgopolis
 https://boardgamegeek.com/boardgame/192458/51st-state-master-set
 https://boardgamegeek.com/boardgame/41114/resistance
 https://boardgamegeek.com/boardgame/234487/altiplano
-https://boardgamegeek.com/boardgame/277085/love-letter
 https://boardgamegeek.com/boardgame/318084/furnace
 https://boardgamegeek.com/boardgame/8217/san-juan
 https://boardgamegeek.com/boardgame/101721/mage-wars-arena
@@ -386,7 +377,6 @@ https://boardgamegeek.com/boardgame/336986/flamecraft
 https://boardgamegeek.com/boardgame/25554/notre-dame
 https://boardgamegeek.com/boardgame/155987/abyss
 https://boardgamegeek.com/boardgame/250458/gugng
-https://boardgamegeek.com/boardgame/24480/pillars-earth
 https://boardgamegeek.com/boardgame/39683/gates-loyang
 https://boardgamegeek.com/boardgame/269210/twice-clever
 https://boardgamegeek.com/boardgame/260428/pandemic-fall-rome
@@ -417,7 +407,6 @@ https://boardgamegeek.com/boardgame/356123/turing-machine
 https://boardgamegeek.com/boardgame/274638/unmatched-robin-hood-vs-bigfoot
 https://boardgamegeek.com/boardgame/194594/dice-forge
 https://boardgamegeek.com/boardgame/71/civilization
-https://boardgamegeek.com/boardgame/198773/codenames-pictures
 https://boardgamegeek.com/boardgame/258210/blitzkrieg-world-war-two-20-minutes
 https://boardgamegeek.com/boardgame/92415/skull
 https://boardgamegeek.com/boardgame/204305/sherlock-holmes-consulting-detective-jack-ripper-w
